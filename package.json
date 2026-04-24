@@ -1,0 +1,9 @@
+{
+  "name": "ci-pipeline-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for CI pipeline assessment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
